@@ -77,16 +77,20 @@ This is a JavaFX application, and running it requires a Java Development Kit (JD
 ## 🖼️ Screenshots
 
 **Home Page and Data Entry**  
-This is the application's initial interface, showing both the search input fields on the left and the new property addition form on the right.
+This is the application's initial interface, showing both the search input fields on the left and the new property addition form on the right.  
+![Home Page and Data Entry](Home_Page_SearchEngine.png)
 
 **Search by City/State/Zip**  
-The application allows filtering the entire dataset by location.
+The application allows filtering the entire dataset by location.  
+![Search by City/State/Zip](Search_by_City.png)
 
 **Search by Bedrooms and Bathrooms**  
-Users can filter the homes based on the number of bedrooms and bathrooms.
+Users can filter the homes based on the number of bedrooms and bathrooms.  
+![Search by Bedrooms and Bathrooms](Search_by_BedroomNo.png)
 
 **Search by Min/Max Price**  
-A search can be narrowed down to a specific price range.
+A search can be narrowed down to a specific price range.  
+![Search by Min/Max Price](Search_by_Price.png)
 
 ---
 
